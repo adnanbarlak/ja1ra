@@ -16,9 +16,7 @@ module.exports = client => {
   );
   client.user.setStatus("online");
   var oyun = [
-    "3",
-    "2",
-    "1"
+    "fb.gg/burakoyunda"
 
   ];
 

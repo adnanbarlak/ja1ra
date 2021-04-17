@@ -1,12 +1,10 @@
 {
-  "//1": "Bu Altyapı Tamamen Devtr'ye Aittir.",
-  "//2": "https://discord.gg/xhyQXPN",
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "Bu Altyapı Tamamen Devtr'ye Codeye Aittir.",
-  "main": "devtr.js",
+  "description": ".",
+  "main": "index.js",
   "scripts": {
-    "start": "node devtr.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -15,7 +13,16 @@
     "moment": "^2.26.0",
     "jimp": "^0.12.1",
     "quick.db": "^7.1.1",
-    "snekfetch": "^4.0.4"
+    "snekfetch": "^4.0.4",
+    "lowdb": "^1.0.0",
+    "weather-js": "^2.0.0",
+    "axios": "^0.21.1",
+    "steam-provider": "^0.2.0",
+    "common-tags": "^1.8.0",
+    "node-superfetch": "^0.2.1",
+    "distube": "^2.8.12",
+    "opusscript": "^0.0.8",
+    "canvacord": "^5.1.0"
   },
   "engines": {
     "node": "12.x"
